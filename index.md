@@ -1,1 +1,1 @@
-## Projetos em Data Science, Machine Learning and Deep Learning.
+## Projetos em Data Science, Machine Learning e Deep Learning.
