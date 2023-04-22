@@ -1,4 +1,4 @@
-title: Matheus de Amorim # your name (or website title) here
+title: Matheus Batista # your name (or website title) here
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
@@ -6,10 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Ranked in top 10% of undergraduate cohort at Cambridge University.
   <br><br>
-  <a href="https://www.linkedin.com/in/matt-chapman-ba8488118/">View my LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/matheus-amorimb/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
-colors:
-  crimson: '#900C3F'
+colors: '#900C3F'
