@@ -8,5 +8,5 @@ In this project, I analyzed the factors that impact a country's life expectancy 
 
 <p align="left">
   <img src="images/life_expectancy_fig1.jpg?raw=true" alt="Image 2" style="height: 300px;">
-  <br> Fig 1: Relationship between Variables and Life Expectancy
+  <br> <b>Fig 1:</b> Relationship between Variables and Life Expectancy
 </p>
