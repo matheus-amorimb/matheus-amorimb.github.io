@@ -10,3 +10,5 @@ In this project, I analyzed the factors that impact a country's life expectancy 
   <img src="images/life_expectancy_fig1.jpg?raw=true" alt="Image 2" style="height: 300px;">
   <br> <b>Fig 1:</b> Relationship between Variables and Life Expectancy
 </p>
+
+[View code on Kaggle](https://www.kaggle.com/code/mbatistasarti/analyzing-life-expectancy-insights-from-who-data/notebook)
